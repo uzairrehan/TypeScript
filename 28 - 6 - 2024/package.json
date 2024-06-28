@@ -1,4 +1,14 @@
 {
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uzair shah",
+  "license": "ISC",
   "devDependencies": {
     "typescript": "^5.5.2"
   }
